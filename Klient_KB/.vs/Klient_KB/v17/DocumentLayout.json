@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Konra\\source\\repos\\Klient_KB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD196E86-1DA6-4009-8DF3-6A9B5974EEAA}|Klient_KB\\Klient_KB.csproj|c:\\users\\konra\\source\\repos\\klient_kb\\klient_kb\\taskdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD196E86-1DA6-4009-8DF3-6A9B5974EEAA}|Klient_KB\\Klient_KB.csproj|solutionrelative:klient_kb\\taskdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD196E86-1DA6-4009-8DF3-6A9B5974EEAA}|Klient_KB\\Klient_KB.csproj|c:\\users\\konra\\source\\repos\\klient_kb\\klient_kb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD196E86-1DA6-4009-8DF3-6A9B5974EEAA}|Klient_KB\\Klient_KB.csproj|solutionrelative:klient_kb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskData.cs",
+              "DocumentMoniker": "C:\\Users\\Konra\\source\\repos\\Klient_KB\\Klient_KB\\TaskData.cs",
+              "RelativeDocumentMoniker": "Klient_KB\\TaskData.cs",
+              "ToolTip": "C:\\Users\\Konra\\source\\repos\\Klient_KB\\Klient_KB\\TaskData.cs",
+              "RelativeToolTip": "Klient_KB\\TaskData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:42:38.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Konra\\source\\repos\\Klient_KB\\Klient_KB\\Program.cs",
+              "RelativeDocumentMoniker": "Klient_KB\\Program.cs",
+              "ToolTip": "C:\\Users\\Konra\\source\\repos\\Klient_KB\\Klient_KB\\Program.cs",
+              "RelativeToolTip": "Klient_KB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:12:06.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

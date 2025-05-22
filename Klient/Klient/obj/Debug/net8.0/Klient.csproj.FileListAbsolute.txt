@@ -1,0 +1,17 @@
+C:\Users\Konra\source\repos\Klient\Klient\bin\Debug\net8.0\Klient.exe
+C:\Users\Konra\source\repos\Klient\Klient\bin\Debug\net8.0\Klient.deps.json
+C:\Users\Konra\source\repos\Klient\Klient\bin\Debug\net8.0\Klient.runtimeconfig.json
+C:\Users\Konra\source\repos\Klient\Klient\bin\Debug\net8.0\Klient.dll
+C:\Users\Konra\source\repos\Klient\Klient\bin\Debug\net8.0\Klient.pdb
+C:\Users\Konra\source\repos\Klient\Klient\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Konra\source\repos\Klient\Klient\obj\Debug\net8.0\Klient.csproj.AssemblyReference.cache
+C:\Users\Konra\source\repos\Klient\Klient\obj\Debug\net8.0\Klient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konra\source\repos\Klient\Klient\obj\Debug\net8.0\Klient.AssemblyInfoInputs.cache
+C:\Users\Konra\source\repos\Klient\Klient\obj\Debug\net8.0\Klient.AssemblyInfo.cs
+C:\Users\Konra\source\repos\Klient\Klient\obj\Debug\net8.0\Klient.csproj.CoreCompileInputs.cache
+C:\Users\Konra\source\repos\Klient\Klient\obj\Debug\net8.0\Klient.csproj.Up2Date
+C:\Users\Konra\source\repos\Klient\Klient\obj\Debug\net8.0\Klient.dll
+C:\Users\Konra\source\repos\Klient\Klient\obj\Debug\net8.0\refint\Klient.dll
+C:\Users\Konra\source\repos\Klient\Klient\obj\Debug\net8.0\Klient.pdb
+C:\Users\Konra\source\repos\Klient\Klient\obj\Debug\net8.0\Klient.genruntimeconfig.cache
+C:\Users\Konra\source\repos\Klient\Klient\obj\Debug\net8.0\ref\Klient.dll

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Konra\\source\\repos\\Klient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA337D1-B7FA-4116-A7E0-FE0F35C46C66}|Klient\\Klient.csproj|c:\\users\\konra\\source\\repos\\klient\\klient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA337D1-B7FA-4116-A7E0-FE0F35C46C66}|Klient\\Klient.csproj|solutionrelative:klient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA337D1-B7FA-4116-A7E0-FE0F35C46C66}|Klient\\Klient.csproj|c:\\users\\konra\\source\\repos\\klient\\klient\\cudawrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA337D1-B7FA-4116-A7E0-FE0F35C46C66}|Klient\\Klient.csproj|solutionrelative:klient\\cudawrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA337D1-B7FA-4116-A7E0-FE0F35C46C66}|Klient\\Klient.csproj|c:\\users\\konra\\source\\repos\\klient\\klient\\taskdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA337D1-B7FA-4116-A7E0-FE0F35C46C66}|Klient\\Klient.csproj|solutionrelative:klient\\taskdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 291,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CudaWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\Konra\\source\\repos\\Klient\\Klient\\CudaWrapper.cs",
+              "RelativeDocumentMoniker": "Klient\\CudaWrapper.cs",
+              "ToolTip": "C:\\Users\\Konra\\source\\repos\\Klient\\Klient\\CudaWrapper.cs",
+              "RelativeToolTip": "Klient\\CudaWrapper.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:38:41.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Konra\\source\\repos\\Klient\\Klient\\Program.cs",
+              "RelativeDocumentMoniker": "Klient\\Program.cs",
+              "ToolTip": "C:\\Users\\Konra\\source\\repos\\Klient\\Klient\\Program.cs",
+              "RelativeToolTip": "Klient\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:18:28.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskData.cs",
+              "DocumentMoniker": "C:\\Users\\Konra\\source\\repos\\Klient\\Klient\\TaskData.cs",
+              "RelativeDocumentMoniker": "Klient\\TaskData.cs",
+              "ToolTip": "C:\\Users\\Konra\\source\\repos\\Klient\\Klient\\TaskData.cs",
+              "RelativeToolTip": "Klient\\TaskData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:38:25.725Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
